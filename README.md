@@ -1,5 +1,5 @@
 # Machine-Learnig---->INTERNSHIP PROJECT
-#                                                                                            Supply Chain Management
+##                                                                                      # Supply Chain Management
 ## Overview
 company has observed a mismatch between demand and supply in their instant noodles business, resulting in significant losses due to inventory costs. The higher management aims to optimize the quantity of product shipments from various warehouses across the country.
 
